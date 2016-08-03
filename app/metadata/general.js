@@ -1,30 +1,30 @@
 module.exports = {
-  title: 'GDG DevFest Sul 2016',
-  description: 'The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts',
+  title: 'GDG DevFest Paraná 2016',
+  description: '',
   keywords: 'event, gdg, gde, devfest, google, programming, android, chrome, firebase, polymer, developers, cloud',
   charset: 'utf-8',
   lang: 'pt-br',
   // Add to homescreen for Chrome on Android
-  applicationName: 'GDG DevFest Sul 2016',
+  applicationName: 'GDG DevFest Paraná 2016',
   // Add to homescreen for Safari on iOS
-  appleMobileWebAppTitle: 'GDG DevFest Sul 2016',
+  appleMobileWebAppTitle: 'GDG DevFest Paraná 2016',
 
   // Event details
   dates: '29 de Outubro de 2016',
   location: {
     title: 'Hotel Golden Park Internacional Park',
-    description: 'Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event',
-    short: 'Lviv, Ukraine',
-    address: 'Shchyretska St, 36',
-    link: 'https://www.facebook.com/expopivdennij',
+    description: '',
+    short: 'Foz do Iguaçu, Paraná',
+    address: 'R. Alm. Barroso, 2006 - Centro, Foz do Iguaçu - PR, 85851-010',
+    link: 'http://www.goldenparkinternacionalfoz.com.br',
     pointer: {
-      latitude: 49.809841,
-      longitude: 23.972805,
+      latitude: -25.5372693,
+      longitude: -54.5847818,
       zoom: 15
     },
     mapCenter: {
-      latitude: 49.809841,
-      longitude: 23.982805
+      latitude: -25.5372693,
+      longitude: -54.5847818
     },
     images: ['/images/backgrounds/location_1.jpg', '/images/backgrounds/location_2.jpg', '/images/backgrounds/location_3.jpg']
   },
@@ -50,9 +50,9 @@ module.exports = {
     }
   },
   hashtag: 'dfua',
-  email: 'devfest@gdg.com',
+  email: 'devfestpr@gmail.com',
   organizer: {
-    name: 'GDG Lviv',
-    blog: 'http://lviv.gdg.org.ua'
+    name: 'GDG Foz/Curitiba/Pato Branco/Franscisco Beltrão/Dois Vizinhos/Maringá',
+    blog: 'http://devfestpr.org/'
   }
 };

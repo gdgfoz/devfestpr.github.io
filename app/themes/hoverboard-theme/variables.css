@@ -16,13 +16,13 @@ for further information on custom CSS properties.
 
 :root {
   /* Primary colors */
-  --dark-primary-color: #0097a7;
-  --default-primary-color: #00bcd4;
-  --light-primary-color: #b2ebf2;
+  --dark-primary-color: #315894;
+  --default-primary-color: #5d84c2;
+  --light-primary-color: #6086bf;
   --text-primary-color: #fff; /* text / icons */
 
   /* Accent colors */
-  --accent-color: #ff4081;
+  --accent-color: #d64a40;
   --text-accent-color: #fff; /* text / icons */
 
   /* Background colors */

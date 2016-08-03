@@ -14,29 +14,29 @@ module.exports = {
         text: 'Veja como foi em 2015'
       }
     }
-  }, {
-    route: 'blog',
-    permalink: '/blog',
-    text: 'Blog',
-    heroSettings: {
-      backgroundColor: '#03A9F4',
-      backgroundImage: '/images/backgrounds/blog.png',
-      fontColor: '#FFFFFF',
-      tabBarColor: '#FFFFFF'
-    }
+  //}, {
+  //  route: 'blog',
+  //  permalink: '/blog',
+  //  text: 'Blog',
+  //  heroSettings: {
+  //    backgroundColor: '#03A9F4',
+  //    backgroundImage: '/images/backgrounds/blog.png',
+  //    fontColor: '#FFFFFF',
+  //    tabBarColor: '#FFFFFF'
+  //  }
   }, {
     route: 'schedule',
     permalink: '/schedule',
-    text: 'Schedule',
+    text: 'Programação',
     heroSettings: {
-      backgroundColor: '#607D8B',
+      backgroundColor: '#0f9954',
       fontColor: '#FFFFFF',
       tabBarColor: '#FFFFFF'
     }
   }, {
     route: 'speakers',
     permalink: '/speakers',
-    text: 'Speakers',
+    text: 'Palestrantes',
     heroSettings: {
       backgroundColor: '#673AB7',
       fontColor: '#FFFFFF',
