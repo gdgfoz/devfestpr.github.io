@@ -14,11 +14,11 @@ module.exports = {
   }],
   callToAction: {
     text: 'GDG DevFest Paraná 2016',
-    buttonText: 'See how it was',
-    //video: {
-    //  id: 't95z_HLMTmM',
-    //  title: 'GDG DevFest Paraná 2016'
-    //}
+    buttonText: 'Veja como foi',
+    video: {
+     id: 'RDQdNXp3uKU',
+     title: 'GDG DevFest Sul 2015'
+    }
   },
   galleryBlock: {
     title: 'GDG DevFest Paraná 2016 - Fotos',
@@ -26,7 +26,7 @@ module.exports = {
       big: '../images/backgrounds/2015_1.jpg',
       small: ['../images/backgrounds/2015_2.jpg', '../images/backgrounds/2015_3.jpg']
     },
-    albumUrl: 'https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1'
+    albumUrl: 'https://plus.google.com/events/c152p4tmk4h6n3ene4c424mhlik'
   },
   ticketsBlock: {
     title: 'Ingressos',
