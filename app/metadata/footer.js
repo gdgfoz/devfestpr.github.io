@@ -16,7 +16,7 @@ module.exports = {
         links: [
           {
             text: 'Media Kit',
-            url: '/assets/Midiakit_DevfestPR 2016.pdf',
+            url: '/assets/Midiakit_DevfestPR_2016.pdf',
             newTab: true
           }
           //,

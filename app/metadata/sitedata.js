@@ -51,5 +51,5 @@ module.exports = {
   socialFeed: {
     source: '/data/tweets.json'
   },
-  partnershipProposition: '/assets/Midiakit_DevfestPR 2016.pdf'
+  partnershipProposition: '/assets/Midiakit_DevfestPR_2016.pdf'
 };
