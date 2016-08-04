@@ -2,7 +2,7 @@ var config = require('../../config');
 
 module.exports = {
     baseurl: '',
-    url: 'https://devfestpr.firebaseapp.com/',
+    url: 'https://devfestpr-14f3c.firebaseapp.com',
     // Google Analytics code
     trackerCode: 'UA-81860832-1',
     // Google Webmaster Tools verification code
