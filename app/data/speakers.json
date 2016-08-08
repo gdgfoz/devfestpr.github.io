@@ -2,87 +2,60 @@
   "23": {
     "id": 23,
     "featured": true,
-    "name": "Dawid Ostrowski",
+    "name": "José Papo",
     "title": "Developer Relations Program Manager",
     "company": "Google",
-    "country": "Switzerland",
-    "photoUrl": "/images/people/dawid_ostrowski.jpg",
-    "bio": "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action.",
+    "country": "Brasil",
+    "photoUrl": "/images/people/jose_papo.jpg",
+    "bio": "",
     "tags": [
-      "Entrepreneurship"
+      ""
     ],
     "socials": [
       {
         "name": "Google+",
         "icon": "gplus",
-        "link": "https://plus.google.com/+DawidOstrowski/"
+        "link": "https://plus.google.com/+JosePapo"
       }
     ]
   },
   "9": {
     "id": 9,
     "featured": true,
-    "name": "Mandy Waite",
+    "name": "Alê Borba",
     "title": "Developer Relations Engineer",
     "company": "Google",
-    "country": "UK",
-    "photoUrl": "/images/people/mandy_waite.jpg",
-    "bio": "Based in London, UK, Mandy is a Developer Relations Engineer at Google specializing in Container and Cloud technologies and working to make the world a better place for developers building applications for the Cloud. Before Google Mandy worked at Sun Microsystems on performance and scalability of Java and JavaEE and on porting Open Source apps to OpenSolaris. In her spare time Mandy is learning Japanese and likes to play the guitar.",
+    "country": "Brasil",
+    "photoUrl": "/images/people/ale_borba.jpg",
+    "bio": "",
     "tags": [
-      "Cloud",
-      "Firebase",
-      "gRPC",
-      "Kubernetes",
-      "Docker"
+      ""
     ],
     "socials": [
       {
         "name": "Google+",
         "icon": "gplus",
-        "link": "https://plus.google.com/+MandyWaite"
-      },
-      {
-        "name": "Twitter",
-        "icon": "twitter",
-        "link": "https://twitter.com/tekgrrl"
-      },
-      {
-        "name": "GitHub",
-        "icon": "github",
-        "link": "https://github.com/tekgrrl"
+        "link": "https://plus.google.com/+AlêBorba"
       }
     ]
   },
   "15": {
     "id": 15,
     "featured": true,
-    "name": "Jakub Škvára",
-    "title": "Frontend engineer",
-    "company": "Shipito",
-    "country": "Czech Republic",
-    "photoUrl": "/images/people/jakub_skvara.jpg",
-    "bio": "Jakub is a member of GDG Prague and GDG ČVUT in Czech republic. He organised together with Jana Moudrá several Polymer and Dart code labs and a hackaton. He works as a frontend engineer for Shipito. Jakub is interested in modern Javascript frameworks, libraries and tools and loves clean code.",
+    "name": "Luiz Gustavo Martins",
+    "title": "Developer Advocate",
+    "company": "Google",
+    "country": "UK",
+    "photoUrl": "",
+    "bio": "",
     "tags": [
-      "Web",
-      "Polymer"
-    ],
-    "badges": [
-      {
-        "name": "GDG",
-        "description": "Google Developers Group Prague",
-        "link": "https://developers.google.com/groups/chapter/111919016509847766513/"
-      }
+      ""
     ],
     "socials": [
       {
         "name": "Google+",
         "icon": "gplus",
-        "link": "https://plus.google.com/u/0/+JakubSkvara"
-      },
-      {
-        "name": "Twitter",
-        "icon": "twitter",
-        "link": "https://twitter.com/skvaros"
+        "link": "https://plus.google.com/+LuizGustavoMartins"
       }
     ]
   },
