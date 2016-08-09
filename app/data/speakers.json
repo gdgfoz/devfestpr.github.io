@@ -1,6 +1,6 @@
 {
-  "23": {
-    "id": 23,
+  "1": {
+    "id": 1,
     "featured": true,
     "name": "José Papo",
     "title": "Developer Relations Program Manager",
@@ -19,8 +19,8 @@
       }
     ]
   },
-  "9": {
-    "id": 9,
+  "2": {
+    "id": 2,
     "featured": true,
     "name": "Alê Borba",
     "title": "Developer Relations Engineer",
@@ -39,15 +39,15 @@
       }
     ]
   },
-  "15": {
-    "id": 15,
+  "3": {
+    "id": 3,
     "featured": true,
     "name": "Luiz Gustavo Martins",
     "title": "Developer Advocate",
     "company": "Google",
     "country": "UK",
-    "photoUrl": "",
-    "bio": "",
+    "photoUrl": "/images/people/luiz_gustavo_martins.jpg",
+    "bio": "Luiz Gustavo Martins é um Developer Advocate do Google de Londres e especialista em Firebase, Google Fit e Android. Nas horas vagas é professor de Capoeira.",
     "tags": [
       ""
     ],
@@ -56,6 +56,27 @@
         "name": "Google+",
         "icon": "gplus",
         "link": "https://plus.google.com/+LuizGustavoMartins"
+      }
+    ]
+  }
+,
+  "4": {
+    "id": 4,
+    "featured": true,
+    "name": "Ubiratan Soares",
+    "title": "Android Developer",
+    "company": "",
+    "country": "Brasil",
+    "photoUrl": "/images/people/ubiratan_soares.jpg",
+    "bio": "",
+    "tags": [
+      ""
+    ],
+    "socials": [
+      {
+        "name": "Google+",
+        "icon": "gplus",
+        "link": "https://plus.google.com/+UbiratanSoares"
       }
     ]
   }
