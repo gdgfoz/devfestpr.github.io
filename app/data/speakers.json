@@ -17,7 +17,8 @@
         "icon": "gplus",
         "link": "https://plus.google.com/+JosePapo"
       }
-    ]
+    ],
+    "sessions": ""
   },
   "2": {
     "id": 2,
@@ -37,7 +38,8 @@
         "icon": "gplus",
         "link": "https://plus.google.com/+AlêBorba"
       }
-    ]
+    ],
+    "sessions": ""
   },
   "3": {
     "id": 3,
@@ -57,7 +59,8 @@
         "icon": "gplus",
         "link": "https://plus.google.com/+LuizGustavoMartins"
       }
-    ]
+    ],
+    "sessions": ""
   }
 ,
   "4": {
@@ -78,6 +81,7 @@
         "icon": "gplus",
         "link": "https://plus.google.com/+UbiratanSoares"
       }
-    ]
+    ],
+    "sessions": ""
   }
 }
