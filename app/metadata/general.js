@@ -20,7 +20,8 @@ module.exports = {
     pointer: {
       latitude: -25.5372693,
       longitude: -54.5847818,
-      zoom: 15
+      zoom: 15,
+      apiKey: "AIzaSyDBACQJ41_CHUCJzdG9Dom3EH3QrBD9Fu0"
     },
     mapCenter: {
       latitude: -25.5372693,
