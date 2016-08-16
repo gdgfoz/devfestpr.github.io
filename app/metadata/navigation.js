@@ -42,5 +42,16 @@ module.exports = {
       fontColor: '#FFFFFF',
       tabBarColor: '#FFFFFF'
     }
-  }]
+  },{
+    route: '#',
+    permalink: 'https://docs.google.com/forms/d/1iLXCL0OEvmSnuQvVbAFLZ7y8CssLw-ohaE-XeVQZiLE/',
+    text: 'Call4Papers',
+    heroSettings: {
+      backgroundColor: '#673AB7',
+      fontColor: '#FFFFFF',
+      tabBarColor: '#FFFFFF'
+    }
+  }
+
+  ]
 };

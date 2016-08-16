@@ -33,21 +33,21 @@ module.exports = {
   // Contacts
   social: {
     twitter: {
-      nickname: 'GDGLviv',
-      url: 'https://twitter.com/gdglviv'
+      nickname: '#',
+      url: '#'
     },
     gplus: {
-      nickname: '102444623953913144164',
-      url: 'https://plus.google.com/102444623953913144164'
+      nickname: '#',
+      url: '#'
     },
     facebook: {
-      nickname: 'GDGLviv',
-      url: 'https://www.facebook.com/GDGLviv'
+      nickname: '#',
+      url: '#'
     },
     // Linkedin company
     linkedin: {
-      nickname: 'google-developers-group-lviv',
-      url: 'https://www.linkedin.com/company/google-developers-group-lviv'
+      nickname: '#',
+      url: '#'
     }
   },
   hashtag: 'dfua',

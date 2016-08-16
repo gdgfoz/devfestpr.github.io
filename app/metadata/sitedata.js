@@ -32,18 +32,18 @@ module.exports = {
     title: 'Ingressos',
     tickets: [{
       name: 'Primeiro lote',
-      price: 50,
-      currency: 'BRL',
+      price: 54,
+      currency: 'R$',
       //info: '*Before October 23 or 100 tickets.<br/>Requires valid student ID'
     }, {
       name: 'Segundo lote',
-      price: 75,
-      currency: 'BRL',
+      price: 80.99,
+      currency: 'R$',
       //info: '*Before September 27 or 150 tickets'
     }, {
       name: 'Terceiro lote',
-      price: 100,
-      currency: 'BRL',
+      price: 107.99,
+      currency: 'R$',
       //info: '*Before October 23'
     }],
     details: 'Ingresso dá acesso a todo o evento e 2 coffee breaks. Hospedagem não está inclusa no preço do ingresso.'

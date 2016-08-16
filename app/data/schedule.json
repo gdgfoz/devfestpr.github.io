@@ -2,15 +2,11 @@
     "date": "2016-10-29",
     "dateReadable": "29 Outubro",
     "tracks": [{
-        "title": "Expo area"
-    }, {
-        "title": "Conference hall"
-    }, {
-        "title": "Community hall"
+        "title": "Credenciamento"
     }],
     "timeslots": [{
-        "startTime": "09:00",
-        "endTime": "10:00",
+        "startTime": "08:00",
+        "endTime": "08:30",
         "sessions": [
             [1001]
         ]
