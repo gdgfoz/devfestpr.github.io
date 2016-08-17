@@ -32,17 +32,17 @@ module.exports = {
     title: 'Ingressos',
     tickets: [{
       name: 'Primeiro lote',
-      price: 54,
+      price: 50,
       currency: 'R$',
       //info: '*Before October 23 or 100 tickets.<br/>Requires valid student ID'
     }, {
       name: 'Segundo lote',
-      price: 80.99,
+      price: 75,
       currency: 'R$',
       //info: '*Before September 27 or 150 tickets'
     }, {
       name: 'Terceiro lote',
-      price: 107.99,
+      price: 100,
       currency: 'R$',
       //info: '*Before October 23'
     }],
