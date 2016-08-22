@@ -38,9 +38,7 @@
   "102": {
     "id": 102,
     "title": "Refactoring for RxJava",
-    "description": "Programação Reativa e RxJava são ambos termos da moda quando se fala de desenvolvimento para Android. Contudo, independente da (grande) curva de aprendizado, como eu refatoro meu código para obter as REAIS vantagens de se pensar de forma reativa? De onde eu deveria começar?
-
-    Nessa apresentação, nós vamos apresentar algumas estratégias para refatorar com sucesso com RxJava : do entendimento de fontes reativas óbvias (e não óbvias) ao impacto no design da arquitetura, nós vamos entender como RxJava pode melhorar a legibilidade do nosso código ao mesmo tempo que oferece maneiras melhores de resolver problemas difíceis.",
+    "description": "Programação Reativa e RxJava são ambos termos da moda quando se fala de desenvolvimento para Android. Contudo, independente da (grande) curva de aprendizado, como eu refatoro meu código para obter as REAIS vantagens de se pensar de forma reativa? De onde eu deveria começar? \n Nessa apresentação, nós vamos apresentar algumas estratégias para refatorar com sucesso com RxJava : do entendimento de fontes reativas óbvias (e não óbvias) ao impacto no design da arquitetura, nós vamos entender como RxJava pode melhorar a legibilidade do nosso código ao mesmo tempo que oferece maneiras melhores de resolver problemas difíceis.",
     "speakers": [
       4
     ],
