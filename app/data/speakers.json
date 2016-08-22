@@ -80,8 +80,13 @@
         "name": "Google+",
         "icon": "gplus",
         "link": "https://plus.google.com/+UbiratanSoares"
+      },
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/ubiratanfsoares"
       }
     ],
-    "sessions": ""
+    "sessions": "102"
   }
 }
