@@ -28,7 +28,7 @@
     "company": "Google",
     "country": "Brasil",
     "photoUrl": "/images/people/ale_borba.jpg",
-    "bio": "",
+    "bio": "Alê Borba é evangelista open source e gerente de relacionamento com desenvolvedores do Google.",
     "tags": [
       ""
     ],
@@ -88,5 +88,32 @@
       }
     ],
     "sessions": "102"
+  }
+,
+  "5": {
+    "id": 5,
+    "featured": true,
+    "name": "Joselito Júnior",
+    "title": "Developer",
+    "company": "",
+    "country": "Brasil",
+    "photoUrl": "/images/people/joselito_jr.jpg",
+    "bio": "Joselito Júnior é organizador do GDG Recife e devbeers, é podcaster e editor no Code Talks, brand ambassator da Uber, instrutor e criador do curso Ionic Bootcamp. Além de ganhador de Hackathons profissional, ex-bbb, é apaixonado pela web e por construir coisas para outras pessoas usarem (e quebrarem) e vive palestrando sobre isso Brasil a fora. Também é fã de Fórmula 1, do Santa Cruz FC e de inventar coisas pra web.",
+    "tags": [
+      ""
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/joselitojunior1"
+      },
+      {
+        "name": "Github",
+        "icon": "github",
+        "link": "https://github.com/joselitojunior1"
+      }
+    ],
+    "sessions": ""
   }
 }
