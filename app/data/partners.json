@@ -1,9 +1,11 @@
 [{
     "title": "Parceiros",
     "logos": [{
-        "name": "Google",
-        "url": "https://www.google.com.ua/intl/en/about/",
-        "logoUrl": "../images/partners/google.svg"
+        "name": "Google Developers",
+        "url": "https://developers.google.com/",
+        "logoUrl": "../images/partners/google-developers.svg",
+        "width": 225,
+        "height": 33
     },{
         "name": "Startup PR",
         "url": "#",
