@@ -1,14 +1,132 @@
-[{
+[
+  {
     "date": "2016-10-29",
     "dateReadable": "29 Outubro",
-    "tracks": [{
-        "title": "Credenciamento"
-    }],
-    "timeslots": [{
+    "tracks": [
+      {
+        "title": "Sala X"
+      }
+    ],
+    "timeslots": [
+      {
         "startTime": "08:00",
-        "endTime": "08:30",
+        "endTime": "09:00",
         "sessions": [
-            [1001]
+          [
+            1001
+          ]
         ]
-    }]
-}]
+      },
+      {
+        "startTime": "09:00",
+        "endTime": "09:20",
+        "sessions": [
+          [
+            1005
+          ]
+        ]
+      },
+      {
+        "startTime": "09:20",
+        "endTime": "10:10",
+        "sessions": [
+          [
+            1007
+          ],
+          [
+            1007
+          ]
+        ]
+      },
+      {
+        "startTime": "10:10",
+        "endTime": "11:00",
+        "sessions": [
+          [
+            1007
+          ],
+          [
+            1007
+          ]
+        ]
+      },
+      {
+        "startTime": "11:10",
+        "endTime": "12:00",
+        "sessions": [
+          [
+            1007
+          ],
+          [
+            1007
+          ]
+        ]
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "sessions": [
+          [
+            1002
+          ]
+        ]
+      },
+      {
+        "startTime": "14:00",
+        "endTime": "14:50",
+        "sessions": [
+          [
+            1007
+          ],
+          [
+            1007
+          ]
+        ]
+      },
+      {
+        "startTime": "15:00",
+        "endTime": "15:50",
+        "sessions": [
+          [
+            1007
+          ],
+          [
+            1007
+          ]
+        ]
+      },
+      {
+        "startTime": "16:00",
+        "endTime": "16:30",
+        "sessions": [
+          [
+            1003
+          ]
+        ]
+      },
+      {
+        "startTime": "16:30",
+        "endTime": "17:20",
+        "sessions": [
+          [1007],
+          [1007]
+          ]
+          },
+          {
+            "startTime": "17:30",
+            "endTime": "18:00",
+            "sessions": [
+              [1006],
+              [1006]
+            ]
+          },
+          {
+            "startTime": "18:00",
+            "endTime": "18:30",
+            "sessions": [
+              [1004]
+            ]
+          }
+        ]
+      }
+    ]

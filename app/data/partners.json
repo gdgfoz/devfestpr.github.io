@@ -10,5 +10,13 @@
         "name": "Startup PR",
         "url": "#",
         "logoUrl": "../images/partners/startuppr.svg"
+    },{
+      "name": "Uber",
+      "url": "https://www.uber.com",
+      "logoUrl": "../images/partners/uber.png"
+    },{
+      "name": "Tampa",
+      "url": "http://tampa.works",
+      "logoUrl": "../images/partners/tampa.png"
     }]
 }]

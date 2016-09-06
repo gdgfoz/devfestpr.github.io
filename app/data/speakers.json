@@ -68,7 +68,7 @@
     "featured": true,
     "name": "Ubiratan Soares",
     "title": "Android Developer",
-    "company": "",
+    "company": "LuizaLabs",
     "country": "Brasil",
     "photoUrl": "/images/people/ubiratan_soares.jpg",
     "bio": "Ubiratan Soares é Engenheiro de Software, formado pela Universidade de São Paulo, atualmente colaborador do Luiza Labs, divisão de TI do Magazine Luiza em São Paulo. Trabalha com mobilidade há mais de seis anos e é viciado em desenvolvimento para Android, tendo participação diretamente em alguns dos maiores aplicativos nacionais hoje online. Também é co-organizador do GDG São Paulo, palestrante frequente em eventos de tecnologia, pai, e gosto de Filosofia. Faz parte do programa Google Developer Experts para Android, bem como da iniciativa da Intel Software Innovator para Android.",
@@ -95,7 +95,7 @@
     "featured": true,
     "name": "Joselito Júnior",
     "title": "Developer",
-    "company": "",
+    "company": "GDG Recife",
     "country": "Brasil",
     "photoUrl": "/images/people/joselito_jr.jpg",
     "bio": "Joselito Júnior é organizador do GDG Recife e devbeers, é podcaster e editor no Code Talks, brand ambassator da Uber, instrutor e criador do curso Ionic Bootcamp. Além de ganhador de Hackathons profissional, ex-bbb, é apaixonado pela web e por construir coisas para outras pessoas usarem (e quebrarem) e vive palestrando sobre isso Brasil a fora. Também é fã de Fórmula 1, do Santa Cruz FC e de inventar coisas pra web.",
@@ -112,6 +112,32 @@
         "name": "Github",
         "icon": "github",
         "link": "https://github.com/joselitojunior1"
+      }
+    ],
+    "sessions": ""
+  },
+  "6": {
+    "id": 5,
+    "featured": true,
+    "name": "Ana Paula Gomes",
+    "title": "Developer",
+    "company": "ThoughtWorks",
+    "country": "Brasil",
+    "photoUrl": "/images/people/ana_paula.png",
+    "bio": "Baiana com muito orgulho e desenvolvedora na ThoughtWorks. Adora viajar, boas conversas (preferencialmente acompanhada de uma gelada) e pensar em aplicativos que tornem a vida das pessoas melhor. Nas horas vagas é titular do time de futsal Boas Esporte. ",
+    "tags": [
+      ""
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/AnaPaulaGomess"
+      },
+      {
+        "name": "Github",
+        "icon": "github",
+        "link": "https://github.com/anapaulagomes"
       }
     ],
     "sessions": ""

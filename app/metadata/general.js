@@ -12,7 +12,7 @@ module.exports = {
   // Event details
   dates: '29 de Outubro de 2016',
   location: {
-    title: 'Hotel Golden Park Internacional Park',
+    title: 'Hotel Golden Park Internacional Foz',
     description: '',
     short: 'Foz do Iguaçu, Paraná',
     address: 'R. Alm. Barroso, 2006 - Centro, Foz do Iguaçu - PR, 85851-010',
@@ -41,8 +41,8 @@ module.exports = {
       url: '#'
     },
     facebook: {
-      nickname: '#',
-      url: '#'
+      nickname: 'devfestpr',
+      url: 'https://www.facebook.com/devfestpr'
     },
     // Linkedin company
     linkedin: {
@@ -50,7 +50,7 @@ module.exports = {
       url: '#'
     }
   },
-  hashtag: 'dfua',
+  hashtag: '#devfestpr16',
   email: 'devfestpr@gmail.com',
   organizer: {
     name: 'GDG Foz/Curitiba/Pato Branco/Franscisco Beltrão/Dois Vizinhos/Maringá',
