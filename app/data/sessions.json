@@ -6,37 +6,36 @@
   },
   "1002": {
     "id": 1002,
-    "title": "Lunch",
-    "description": "Foooooooood!"
+    "title": "Almoço",
+    "description": "Comidaaaaaaa!"
   },
   "1003": {
     "id": 1003,
     "title": "Coffee break",
-    "description": "Coffeeeeeee!"
+    "description": "Quero café!"
   },
   "1004": {
     "id": 1004,
-    "title": "Morning coffee",
-    "description": "Coffeeeeeee!"
+    "title": "Encerramento",
+    "description": "Encerramento e conciderações finais"
+  },
+  "1005": {
+    "id": 1005,
+    "title": "Abertura",
+    "description": "Abertura com os Organizadores dos GDG do Paraná"
+  },
+  "1006": {
+    "id": 1006,
+    "title": "Firechat com todos os palestrantes do dia da trilha",
+    "description": "Firechat com todos os palestrantes do dia"
+  },
+  "1007": {
+    "id": 1007,
+    "title": "À confirmar",
+    "description": ""
   },
   "101": {
     "id": 101,
-    "title": "Material Design on Custom Views",
-    "description": "There are various widgets to create user interfaces in Android Framework. Using these widgets is a starting point but they are not enough to create awesome apps. Fortunately, alternative methods are here to rescue! I mean understanding and extending the View class.<br/><br/>In this presentation, I will give some Custom View examples. Some of them makes impossible things be possible and some of them increase performance.<br/><br/>I will also talk about how to apply Material Design in Custom Views with the support of older platform versions.",
-    "speakers": [
-      1
-    ],
-    "language": "English",
-    "complexity": "Beginner",
-    "presentation": "https://speakerdeck.com/gdglviv/said-tahsin-dane-material-design-custom-views",
-    "thumbnail": "/images/sessions/101.JPG",
-    "videoId": "nFZxAIi8n7I",
-    "tags": [
-      ""
-    ]
-  },
-  "102": {
-    "id": 102,
     "title": "Refactoring for RxJava",
     "description": "Programação Reativa e RxJava são ambos termos da moda quando se fala de desenvolvimento para Android. Contudo, independente da (grande) curva de aprendizado, como eu refatoro meu código para obter as REAIS vantagens de se pensar de forma reativa? De onde eu deveria começar? \n Nessa apresentação, nós vamos apresentar algumas estratégias para refatorar com sucesso com RxJava : do entendimento de fontes reativas óbvias (e não óbvias) ao impacto no design da arquitetura, nós vamos entender como RxJava pode melhorar a legibilidade do nosso código ao mesmo tempo que oferece maneiras melhores de resolver problemas difíceis.",
     "speakers": [
@@ -48,7 +47,27 @@
     "thumbnail": "",
     "videoId": "",
     "tags": [
-      "Android"
+      "Android",
+      "RxJava"
+    ]
+  },
+  "102": {
+    "id": 102,
+    "title": "O que Gotham, Spotify e Google App Engine tem em comum",
+    "description": "Nessa palestra você irá descobrir o que quer dizer essa charada (que não foi o Charada que fez) mas que trata sobre como começar seus projetos com Google App Engine e tirar suas ideias do papel.",
+    "speakers": [
+      4
+    ],
+    "language": "Português",
+    "complexity": "Intermediario",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "Android",
+      "GAE",
+      "Google Cloud",
+      "Google App Engine"
     ]
   }
 }
