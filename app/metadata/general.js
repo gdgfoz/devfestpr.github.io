@@ -32,23 +32,24 @@ module.exports = {
 
   // Contacts
   social: {
-    twitter: {
-      nickname: '#',
-      url: '#'
-    },
+    //twitter: {
+    //  nickname: '#',
+    //  url: '#'
+    //},
     gplus: {
-      nickname: '#',
-      url: '#'
+      nickname: 'DevFest',
+      url: 'https://plus.google.com/events/c8kvb7jp64aft2iev4g374h4254'
     },
     facebook: {
-      nickname: '#',
-      url: '#'
-    },
-    // Linkedin company
-    linkedin: {
-      nickname: '#',
-      url: '#'
+      nickname: 'DevFest',
+      url: 'https://www.facebook.com/devfestpr'
     }
+    //,
+    // Linkedin company
+    //linkedin: {
+    //  nickname: '#',
+    //  url: '#'
+    //}
   },
   hashtag: 'dfua',
   email: 'devfestpr@gmail.com',
