@@ -142,4 +142,26 @@
     ],
     "sessions": ""
   }
+,
+  "7": {
+    "id": 7,
+    "featured": true,
+    "name": "Claudio Olmedo",
+    "title": "Maker",
+    "company": "Centro Maker",
+    "country": "Brasil",
+    "photoUrl": "/images/people/claudio_olmedo.jpg",
+    "bio": "Militante do Hardware Livre no Brasil, Palestrante nas edições de 2014, 2015 da Latinoware , Palestrante Campus Party #CPBR8, Palestrante em Eventos para divulgação do Hardware Livre. Criador do projeto One Dollar Board, para a popularização da programação e eletrônica em países em desenvolvimento, projeto incubado na Incubadora Santos Dumont do Parque Tecnológico de Itaipu Brasil, projeto também acelerado pela Fundação Lemann no Start-Ed Lab 2016. Fundador da primeira empresa especializada em Hardware Livre para Makers, Centro Maker,  com o foco em empoderar pessoas para serem empreendedores em hardware para internet das coisas no Brasil. Fundador da empresa SPM na China, para dar suporte aos empreendedores em Hardware. Trabalhos reconhecidos na SXSW 2015, como ativista do Hardware Livre no Movimento Maker brasileiro.",
+    "tags": [
+      ""
+    ],
+    "socials": [
+      {
+        "name": "Facebook",
+        "icon": "facebook",
+        "link": "https://www.facebook.com/claudio.centromaker"
+      }
+    ],
+    "sessions": ""
+  }
 }

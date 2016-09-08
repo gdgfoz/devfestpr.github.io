@@ -13,7 +13,7 @@ module.exports = {
     caption: 'Trilhas paralelas'
   }],
   callToAction: {
-    text: 'GDG DevFest Paraná 2016',
+    text: 'GDG DevFest Paraná 2015',
     buttonText: 'Veja como foi',
     video: {
      id: 'RDQdNXp3uKU',
@@ -21,7 +21,7 @@ module.exports = {
     }
   },
   galleryBlock: {
-    title: 'GDG DevFest Paraná 2016 - Fotos',
+    title: 'GDG DevFest Paraná 2015 - Fotos',
     photos: {
       big: '../images/backgrounds/2015_1.jpg',
       small: ['../images/backgrounds/2015_2.jpg', '../images/backgrounds/2015_3.jpg']
