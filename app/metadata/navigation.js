@@ -51,7 +51,16 @@ module.exports = {
       fontColor: '#FFFFFF',
       tabBarColor: '#FFFFFF'
     }
+  },{
+  route: '#',
+  permalink: 'https://www.sympla.com.br/devfest-parana-2016__83812',
+  text: 'Ingressos',
+  heroSettings: {
+    backgroundColor: '#FF9B27',
+    fontColor: '#FFFFFF',
+    tabBarColor: '#FFFFFF'
   }
+}
 
   ]
 };
