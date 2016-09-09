@@ -103,6 +103,10 @@
             .buytickets{
                 margin: 0px auto;
             }
+            .button-big-text{
+                width: 13%;
+                margin-top: 10px;
+            }
         </style>
 
         <div class="container text-center">
@@ -124,14 +128,12 @@
             </div>
             <span class="details">{$ ticketsBlock.details $}</span>
             <div class="block">
-                <a data-route="" href="https://www.sympla.com.br/devfest-parana-2016__83812" class="block-link" target="_blank">
-                    <paper-button>Compre o ingresso</paper-button>
-                </a>
+                <a href="https://www.sympla.com.br/devfest-parana-2016__83812" target="_blank"><img src="https://www.sympla.com.br/images/btn-buy-tickets.png" alt="" style="" class="button-big-text" /></a>
             </div>
-            <div class="block buytickets">
-                <div id="sympla-widget-83812" height="auto"></div>
-                <script src="http://www.sympla.com.br/js/sympla.widget-pt.js/83812"></script>
-            </div>
+            <!--<div class="block buytickets">-->
+                <!--<div id="sympla-widget-83812" height="auto"></div>-->
+                <!--<script src="https://www.sympla.com.br/js/sympla.widget-pt.js/83812"></script>-->
+            <!--</div>-->
         </div>
         <paper-dialog id="ticketsDialog" entry-animation="scale-up-animation" exit-animation="fade-out-animation" modal>
             <p>We have run out all our tickets</p>
