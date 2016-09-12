@@ -101,7 +101,9 @@
                 font-size: 1.3em;
             }
             .buytickets{
-                margin: 0px auto;
+                /*margin: 0px auto;*/
+                color:white;
+                background-color: orange;
             }
             .button-big-text{
                 width: 13%;
@@ -127,9 +129,15 @@
                 {% endfor %}
             </div>
             <span class="details">{$ ticketsBlock.details $}</span>
-            <div class="block">
-                <a href="https://www.sympla.com.br/devfest-parana-2016__83812" target="_blank"><img src="https://www.sympla.com.br/images/btn-buy-tickets.png" alt="" style="" class="button-big-text" /></a>
-            </div>
+            <p>
+                <!--<a href="https://www.sympla.com.br/devfest-parana-2016__83812" target="_blank"><img src="https://www.sympla.com.br/images/btn-buy-tickets.png" alt="" style="" class="button-big-text" /></a>-->
+                <a href="https://www.sympla.com.br/devfest-parana-2016__83812" target="_blank">
+                    <paper-button raised class="buytickets" >Comprar ingressos</paper-button>
+                </a>
+                <a href="http://www.frontiereventos.com.br/Eventos-DEVFEST-2016/" target="_blank">
+                    <paper-button  raised class="buytickets">Hospedagem oficial</paper-button>
+                </a>
+            </p>
             <!--<div class="block buytickets">-->
                 <!--<div id="sympla-widget-83812" height="auto"></div>-->
                 <!--<script src="https://www.sympla.com.br/js/sympla.widget-pt.js/83812"></script>-->
