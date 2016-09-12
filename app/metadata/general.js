@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'GDG DevFest Paraná 2016',
+  title: 'GDG DevFest Paraná 2016 - 29 de Outubro de 2016',
   description: '',
   keywords: 'event, gdg, gde, devfest, google, programming, android, chrome, firebase, polymer, developers, cloud',
   charset: 'utf-8',

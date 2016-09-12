@@ -54,7 +54,7 @@ module.exports = {
   },{
   route: '#',
   permalink: 'https://www.sympla.com.br/devfest-parana-2016__83812',
-  text: 'Ingressos',
+  text: 'COMPRE SEU INGRESSO',
   heroSettings: {
     backgroundColor: '#FF9B27',
     fontColor: '#FFFFFF',
