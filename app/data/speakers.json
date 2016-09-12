@@ -163,5 +163,26 @@
       }
     ],
     "sessions": ""
+  },
+  "8": {
+    "id": 8,
+    "featured": true,
+    "name": "Fernando Rychlewski",
+    "title": "Community Manager",
+    "company": "iMaster",
+    "country": "Brasil",
+    "photoUrl": "/images/people/fernando.jpg",
+    "bio": "Mais de 16 anos de desenvolvedor curioso (Nerd) e mais de 8 anos de experiência em Análise e Gerência de Projetos de Sistemas em arquiteturas Web/Cloud, atua na elaboração de evoluções tecnológicas e arquiteturas em sistemas de grandes corporações no mercado.\nTambém Organizador e Palestrante de eventos para a comunidade de Desenvolvedores brasileiros (Google Developers São Paulo, NetCoders, iMasters, etc), além de 12 anos de experiência com design gráfico (CEO de uma gráfica, seu Hobbie).  ",
+    "tags": [
+      ""
+    ],
+    "socials": [
+      {
+        "name": "Facebook",
+        "icon": "facebook",
+        "link": "https://www.facebook.com/claudio.centromaker"
+      }
+    ],
+    "sessions": ""
   }
 }

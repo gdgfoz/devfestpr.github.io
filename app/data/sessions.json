@@ -56,7 +56,7 @@
     "title": "O que Gotham, Spotify e Google App Engine tem em comum",
     "description": "Nessa palestra você irá descobrir o que quer dizer essa charada (que não foi o Charada que fez) mas que trata sobre como começar seus projetos com Google App Engine e tirar suas ideias do papel.",
     "speakers": [
-      4
+      6
     ],
     "language": "Português",
     "complexity": "Intermediario",
@@ -68,6 +68,23 @@
       "GAE",
       "Google Cloud",
       "Google App Engine"
+    ]
+  }
+,
+  "103": {
+    "id": 103,
+    "title": "A História da Realidade Virtual e Como Começar.",
+    "description": "Fundamentos da Realidade Virtual\nComo surgiu a realidade virtual\nEvolução da Realidade Virtual\nRealidade Virtual nos tempos atuais\nPor onde começar a programar",
+    "speakers": [
+      8
+    ],
+    "language": "Português",
+    "complexity": "Iniciante",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "Realidade Virtual"
     ]
   }
 }
