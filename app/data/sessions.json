@@ -69,8 +69,7 @@
       "Google Cloud",
       "Google App Engine"
     ]
-  }
-,
+  },
   "103": {
     "id": 103,
     "title": "A História da Realidade Virtual e Como Começar.",
@@ -86,21 +85,37 @@
     "tags": [
       "Realidade Virtual"
     ]
+  },
+  "104": {
+    "id": 104,
+    "title": "Machine Learning com produtos Google",
+    "description": "Um walkthrough sobre como começar a brincar com Machine Learning utilizando produtos Google como a VisionAPI e o TensorFlow.",
+    "speakers": [
+      9
+    ],
+    "language": "Português",
+    "complexity": "Iniciante",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "Machine Learning"
+    ]
+  },
+  "105": {
+    "id": 105,
+    "title": "Base para aplicativo Android para Internet das Coisas.",
+    "description": "",
+    "speakers": [
+      7
+    ],
+    "language": "Português",
+    "complexity": "Iniciante",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "Android"
+    ]
   }
-  ,"104": {
-  "id": 104,
-  "title": "Machine Learning com produtos Google",
-  "description": "Um walkthrough sobre como começar a brincar com Machine Learning utilizando produtos Google como a VisionAPI e o TensorFlow.",
-  "speakers": [
-    9
-  ],
-  "language": "Português",
-  "complexity": "Iniciante",
-  "presentation": "",
-  "thumbnail": "",
-  "videoId": "",
-  "tags": [
-    "Machine Learning"
-  ]
-}
 }
