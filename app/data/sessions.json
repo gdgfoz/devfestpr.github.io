@@ -117,5 +117,21 @@
     "tags": [
       "Android"
     ]
+  },
+  "106": {
+    "id": 107,
+    "title": "Nota sobre interoperabilidade do Go",
+    "description": "Gostaria de compartilhar minha experiência integrando outras linguagens no ecossistema Go. Isso envolve um 'guia' de um pacote experimental que permite interação entre programas .NET de várias formas",
+    "speakers": [
+      10
+    ],
+    "language": "Espanhol/Português",
+    "complexity": "Intermediario",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "Go"
+    ]
   }
 }

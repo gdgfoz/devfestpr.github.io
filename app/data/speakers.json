@@ -205,5 +205,36 @@
       }
     ],
     "sessions": ""
+  },
+  "10": {
+    "id": 10,
+    "featured": true,
+    "name": "Matías Insaurralde",
+    "title": "Developer",
+    "company": "Tyk",
+    "country": "Paraguai",
+    "photoUrl": "/images/people/matias_insaurralde.jpg",
+    "bio": "Matias é desenvolvedor de software do Paraguai. Começou a programar com 10 anos de idade, atualmente trabalha na Tyk, num ai opne source. Quando está longe do teclado gosta de tocar violão.",
+    "tags": [
+      "Go"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/matias_baruch"
+      },
+      {
+        "name": "Github",
+        "icon": "github",
+        "link": "https://github.com/matiasinsaurralde"
+      },
+      {
+        "name": "Facebook",
+        "icon": "facebook",
+        "link": "https://facebook.com/matiasinsaurralde"
+      }
+    ],
+    "sessions": ""
   }
 }
