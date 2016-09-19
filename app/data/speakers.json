@@ -212,7 +212,7 @@
     "name": "Matías Insaurralde",
     "title": "Developer",
     "company": "Tyk",
-    "country": "Paraguai",
+    "country": "UK",
     "photoUrl": "/images/people/matias_insaurralde.jpg",
     "bio": "Matias é desenvolvedor de software do Paraguai. Começou a programar com 10 anos de idade, atualmente trabalha na Tyk, num ai opne source. Quando está longe do teclado gosta de tocar violão.",
     "tags": [
@@ -233,6 +233,33 @@
         "name": "Facebook",
         "icon": "facebook",
         "link": "https://facebook.com/matiasinsaurralde"
+      }
+    ],
+    "sessions": ""
+  },
+  "11": {
+    "id": 11,
+    "featured": true,
+    "name": "Geovani de Souza",
+    "title": "Developer",
+    "company": "Serrabits",
+    "country": "Brasil",
+    "photoUrl": "/images/people/geovani_souza.jpg",
+    "bio": "Desenvolvedor há 5 anos, trabalhou com C#, Python, Android, JavaScript, Go e hoje está focado em Ruby. Palestrante frequente em eventos de tecnologia, se esforça para trazer assuntos de alto nível para a região, como Reactive Programming.",
+    "tags": [
+      "Android",
+      "Material Design"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "https://twitter.com/geovanisouza92"
+      },
+      {
+        "name": "Github",
+        "icon": "github",
+        "link": "https://github.com/geovanisouza92"
       }
     ],
     "sessions": ""

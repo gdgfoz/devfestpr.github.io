@@ -97,6 +97,10 @@ gulp.task('copy', function() {
     'app/assets/*'
   ]).pipe(gulp.dest('dist/assets'));
 
+  var assets = gulp.src([
+    'app/assets/email-marketing/*'
+  ]).pipe(gulp.dest('dist/assets/email-marketing'));
+
   var data = gulp.src([
     'app/data/*'
   ]).pipe(gulp.dest('dist/data'));
@@ -127,7 +131,7 @@ gulp.task('fonts', function() {
 
 // Scan your HTML for assets & optimize them
 gulp.task('html', function() {
-  return gulp.src(['app/*.html', '.tmp/*.html'])
+  return gulp.src(['app/*.html', '.tmp/*.html', 'app/assets/email-marketing/*.html'])
     // Concatenate and minify JavaScript
     .pipe($.if('*.js', $.uglify()))
     .pipe($.useref({searchPath: 'dist'}))

@@ -120,7 +120,7 @@
   },
   "106": {
     "id": 107,
-    "title": "Nota sobre interoperabilidade do Go",
+    "title": "Notas sobre interoperabilidade do Go",
     "description": "Gostaria de compartilhar minha experiência integrando outras linguagens no ecossistema Go. Isso envolve um 'guia' de um pacote experimental que permite interação entre programas .NET de várias formas",
     "speakers": [
       10
@@ -132,6 +132,23 @@
     "videoId": "",
     "tags": [
       "Go"
+    ]
+  },
+  "107": {
+    "id": 107,
+    "title": "Material Design no chão de fábrica",
+    "description": "Como o Material Design acelerou o desenvolvimento e facilitou o aprendizado dos usuários.",
+    "speakers": [
+      11
+    ],
+    "language": "Português",
+    "complexity": "Iniciante",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "Android",
+      "Material Design"
     ]
   }
 }
