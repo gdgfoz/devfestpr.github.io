@@ -97,7 +97,7 @@ gulp.task('copy', function() {
     'app/assets/*'
   ]).pipe(gulp.dest('dist/assets'));
 
-  var assets = gulp.src([
+  var mailmaketing = gulp.src([
     'app/assets/email-marketing/*'
   ]).pipe(gulp.dest('dist/assets/email-marketing'));
 
@@ -118,7 +118,7 @@ gulp.task('copy', function() {
   var scripts = gulp.src(['app/scripts/analytics.js'])
     .pipe(gulp.dest('dist/scripts'));
 
-  return merge(app, bower, elements, assets, data, posts, icons, components, scripts)
+  return merge(app, bower, elements, assets,mailmaketing, data, posts, icons, components, scripts)
     .pipe($.size({title: 'Copy files to dist dir:'}));
 });
 
@@ -131,7 +131,7 @@ gulp.task('fonts', function() {
 
 // Scan your HTML for assets & optimize them
 gulp.task('html', function() {
-  return gulp.src(['app/*.html', '.tmp/*.html', 'app/assets/email-marketing/*.html'])
+  return gulp.src(['app/*.html', '.tmp/*.html'])
     // Concatenate and minify JavaScript
     .pipe($.if('*.js', $.uglify()))
     .pipe($.useref({searchPath: 'dist'}))
