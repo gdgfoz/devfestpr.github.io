@@ -263,5 +263,35 @@
       }
     ],
     "sessions": ""
+  },
+  "12": {
+    "id": 12,
+    "featured": true,
+    "name": "Mateus Ortiz",
+    "title": "Developer",
+    "company": "",
+    "country": "Brasil",
+    "photoUrl": "",
+    "bio": "Front-end Developer e criador de alguns projetos OpenSource bem interessantes, como o Web Components Weekly e o guia Web Components the right way, e tem apenas 18 anos.",
+    "tags": [
+      "AngularJS"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "twitter.com/mteusortiz"
+      },
+      {
+        "name": "Github",
+        "icon": "github",
+        "link": "https://github.com/mateusortiz"
+      },{
+        "name": "Google+",
+        "icon": "gplus",
+        "link": "https://plus.google.com/MateusOrtizP"
+      }
+    ],
+    "sessions": ""
   }
 }
