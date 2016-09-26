@@ -150,5 +150,21 @@
       "Android",
       "Material Design"
     ]
+  },
+  "108": {
+    "id": 108,
+    "title": "Web Performance com Angular 2",
+    "description": "",
+    "speakers": [
+      12
+    ],
+    "language": "Português",
+    "complexity": "Intermediario",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "AngularJS"
+    ]
   }
 }
