@@ -17,8 +17,7 @@
         "icon": "gplus",
         "link": "https://plus.google.com/+JosePapo"
       }
-    ],
-    "sessions": ""
+    ]
   },
   "2": {
     "id": 2,
@@ -38,8 +37,7 @@
         "icon": "gplus",
         "link": "https://plus.google.com/+AlêBorba"
       }
-    ],
-    "sessions": ""
+    ]
   },
   "3": {
     "id": 3,
@@ -59,8 +57,7 @@
         "icon": "gplus",
         "link": "https://plus.google.com/+LuizGustavoMartins"
       }
-    ],
-    "sessions": ""
+    ]
   }
 ,
   "4": {
@@ -86,8 +83,7 @@
         "icon": "twitter",
         "link": "https://twitter.com/ubiratanfsoares"
       }
-    ],
-    "sessions": "102"
+    ]
   }
 ,
   "5": {
@@ -113,8 +109,7 @@
         "icon": "github",
         "link": "https://github.com/joselitojunior1"
       }
-    ],
-    "sessions": ""
+    ]
   },
   "6": {
     "id": 6,
@@ -139,8 +134,7 @@
         "icon": "github",
         "link": "https://github.com/anapaulagomes"
       }
-    ],
-    "sessions": ""
+    ]
   }
 ,
   "7": {
@@ -161,30 +155,28 @@
         "icon": "facebook",
         "link": "https://www.facebook.com/claudio.centromaker"
       }
-    ],
-    "sessions": ""
+    ]
   },
   "8": {
-  "id": 8,
-  "featured": true,
-  "name": "Fernando Rychlewski",
-  "title": "Community Manager",
-  "company": "iMaster",
-  "country": "Brasil",
-  "photoUrl": "/images/people/fernando.jpg",
-  "bio": "Mais de 16 anos de desenvolvedor curioso (Nerd) e mais de 8 anos de experiência em Análise e Gerência de Projetos de Sistemas em arquiteturas Web/Cloud, atua na elaboração de evoluções tecnológicas e arquiteturas em sistemas de grandes corporações no mercado.\nTambém Organizador e Palestrante de eventos para a comunidade de Desenvolvedores brasileiros (Google Developers São Paulo, NetCoders, iMasters, etc), além de 12 anos de experiência com design gráfico (CEO de uma gráfica, seu Hobbie).  ",
-  "tags": [
-    ""
-  ],
-  "socials": [
-    {
-      "name": "Linkedin",
-      "icon": "linkedin",
-      "link": "https://br.linkedin.com/in/fernandorych"
-    }
-  ],
-  "sessions": ""
-},
+    "id": 8,
+    "featured": true,
+    "name": "Fernando Rychlewski",
+    "title": "Community Manager",
+    "company": "iMaster",
+    "country": "Brasil",
+    "photoUrl": "/images/people/fernando.jpg",
+    "bio": "Mais de 16 anos de desenvolvedor curioso (Nerd) e mais de 8 anos de experiência em Análise e Gerência de Projetos de Sistemas em arquiteturas Web/Cloud, atua na elaboração de evoluções tecnológicas e arquiteturas em sistemas de grandes corporações no mercado.\nTambém Organizador e Palestrante de eventos para a comunidade de Desenvolvedores brasileiros (Google Developers São Paulo, NetCoders, iMasters, etc), além de 12 anos de experiência com design gráfico (CEO de uma gráfica, seu Hobbie).  ",
+    "tags": [
+      ""
+    ],
+    "socials": [
+      {
+        "name": "Linkedin",
+        "icon": "linkedin",
+        "link": "https://br.linkedin.com/in/fernandorych"
+      }
+    ]
+  },
   "9": {
     "id": 9,
     "featured": true,
@@ -203,8 +195,7 @@
         "icon": "twitter",
         "link": "https://twitter.com/olarclara"
       }
-    ],
-    "sessions": ""
+    ]
   },
   "10": {
     "id": 10,
@@ -234,8 +225,7 @@
         "icon": "facebook",
         "link": "https://facebook.com/matiasinsaurralde"
       }
-    ],
-    "sessions": ""
+    ]
   },
   "11": {
     "id": 11,
@@ -261,8 +251,7 @@
         "icon": "github",
         "link": "https://github.com/geovanisouza92"
       }
-    ],
-    "sessions": ""
+    ]
   },
   "12": {
     "id": 12,
@@ -291,7 +280,26 @@
         "icon": "gplus",
         "link": "https://plus.google.com/MateusOrtizP"
       }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "featured": true,
+    "name": "Paula Caroline da Rosa",
+    "title": "Developer",
+    "company": "Concrete Solutions",
+    "country": "Brasil",
+    "photoUrl": "/images/people/paula.jpg",
+    "bio": "Desenvolvedora Android e participante ativa na comunidade android. Começou na área há 2 anos e meio e busca sempre compartilhar conhecimento e incentivar pessoas a ingressar em t.i. ",
+    "tags": [
+      "Android"
     ],
-    "sessions": ""
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "twitter.com/_paulacr"
+      }
+    ]
   }
 }

@@ -4,13 +4,16 @@
     "dateReadable": "29 Outubro",
     "tracks": [
       {
-        "title": "Sala X"
+        "title": "Sala 8 Bits"
+      },
+      {
+        "title": "Sala 16 Bits"
       }
     ],
     "timeslots": [
       {
         "startTime": "08:00",
-        "endTime": "09:00",
+        "endTime": "08:30",
         "sessions": [
           [
             1001
@@ -18,8 +21,8 @@
         ]
       },
       {
-        "startTime": "09:00",
-        "endTime": "09:20",
+        "startTime": "08:30",
+        "endTime": "09:00",
         "sessions": [
           [
             1005
@@ -27,8 +30,8 @@
         ]
       },
       {
-        "startTime": "09:20",
-        "endTime": "10:10",
+        "startTime": "09:00",
+        "endTime": "09:50",
         "sessions": [
           [
             1007
@@ -39,26 +42,26 @@
         ]
       },
       {
-        "startTime": "10:10",
-        "endTime": "11:00",
+        "startTime": "10:00",
+        "endTime": "10:50",
         "sessions": [
           [
-            1007
+            101
           ],
           [
-            1007
+            104
           ]
         ]
       },
       {
-        "startTime": "11:10",
-        "endTime": "12:00",
+        "startTime": "11:00",
+        "endTime": "11:50",
         "sessions": [
           [
-            1007
+            106
           ],
           [
-            1007
+            109
           ]
         ]
       },
@@ -79,7 +82,7 @@
             1007
           ],
           [
-            1007
+            103
           ]
         ]
       },
@@ -88,10 +91,10 @@
         "endTime": "15:50",
         "sessions": [
           [
-            1007
+            102
           ],
           [
-            1007
+            105
           ]
         ]
       },
@@ -108,25 +111,35 @@
         "startTime": "16:30",
         "endTime": "17:20",
         "sessions": [
-          [1007],
-          [1007]
+          [
+            108
+          ],
+          [
+            1007
           ]
-          },
-          {
-            "startTime": "17:30",
-            "endTime": "18:00",
-            "sessions": [
-              [1006],
-              [1006]
-            ]
-          },
-          {
-            "startTime": "18:00",
-            "endTime": "18:30",
-            "sessions": [
-              [1004]
-            ]
-          }
+        ]
+      },
+      {
+        "startTime": "17:30",
+        "endTime": "18:00",
+        "sessions": [
+          [
+            1007
+          ],
+          [
+            1007
+          ]
+        ]
+      },
+      {
+        "startTime": "18:00",
+        "endTime": "18:30",
+        "sessions": [
+          [
+            1004
+          ]
         ]
       }
     ]
+  }
+]
