@@ -1,24 +1,4 @@
 {
-  "1": {
-    "id": 1,
-    "featured": true,
-    "name": "José Papo",
-    "title": "Developer Relations Program Manager",
-    "company": "Google",
-    "country": "Brasil",
-    "photoUrl": "/images/people/jose_papo.jpg",
-    "bio": "José Papo é Developer Relations Program Manager no Google. Também já trabalhou na Amazon (AWS) e na Microsoft. É desenvolvedor de software, evangelista de novas tecnologias e mestre em engenharia da computação pelo IPT. Também atua como professor de pós-graduação na PUC-SP. Fala sobre tendências tecnológicas, computação em nuvem, agilidade, inovação e desenvolvimento de produtos em seu twitter @josepapo.",
-    "tags": [
-      ""
-    ],
-    "socials": [
-      {
-        "name": "Google+",
-        "icon": "gplus",
-        "link": "https://plus.google.com/+JosePapo"
-      }
-    ]
-  },
   "2": {
     "id": 2,
     "featured": true,
