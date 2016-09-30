@@ -182,5 +182,22 @@
     "tags": [
       "Android"
     ]
+  },
+  "110": {
+    "id": 110,
+    "title": "Progressive Web Apps ON FIRE",
+    "description": "Progressive Web Apps oferecem uma experiência de primeira classe para os usuários, mas são extremamente desafiantes (e dolorosos) para serem construido. Felizmente, o Firebase oferece um SDK maravilhoso para ter uma ótima experiência criando PWA. Nessa talk, nos vamos pegar um aplicativo que usa Firebase como back-end e iremos transformar num PWA offline, usando service workers, e faremos o deploy usando o Firebase Hosting, Auth e o Database. Durante isso, vamos conhecer melhor os Progressive Web Apps e o que eles são capazes de fazer.",
+    "speakers": [
+      5
+    ],
+    "language": "Português",
+    "complexity": "Intermediario",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "Firebase",
+      "Progressive Web Apps"
+    ]
   }
 }
