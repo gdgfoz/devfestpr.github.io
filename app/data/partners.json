@@ -18,5 +18,20 @@
       "name": "Tampa",
       "url": "http://tampa.works",
       "logoUrl": "../images/partners/tampa.png"
+    },{
+      "name": "Acifi",
+      "url": "http://www.acifi.org.br",
+      "logoUrl": "../images/partners/acifi.jpg"
+    },{
+      "name": "Núcleo de Ti de Foz do Iguaçu",
+      "url": "http://www.acifi.org.br",
+      "logoUrl": "../images/partners/nti.jpg"
+    },{
+      "name": "Incubadora Santos Dumont",
+      "url": "http://www.pti.org.br",
+      "logoUrl": "../images/partners/incubadora.png",
+      "width": 250,
+      "height": 66
     }]
+
 }]
