@@ -281,5 +281,34 @@
         "link": "twitter.com/_paulacr"
       }
     ]
+  },
+  "14": {
+    "id": 14,
+    "featured": true,
+    "name": "Luis Leão",
+    "title": "Developer",
+    "company": "Udacity",
+    "country": "Brasil",
+    "photoUrl": "/images/people/luis.jpg",
+    "bio": "Course Manager na Udacity, co-organiza o Google Developer Group de São Paulo e atua em diversas áreas voltadas para empreendedorismo e inovação, entre eles é responsável por um grupo de estudo de Internet das Coisas (IoT) no RedBull Station e pelo programa Startup in School, projeto de formação empreendedora e programação para estudantes de escolas públicas.",
+    "tags": [
+      "IoT",
+      "Firebase "
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "twitter.com/luisleao"
+      },{
+        "name": "Linkedin",
+        "icon": "linkedin",
+        "link": "http://www.linkedin.com/in/luisleao"
+      },{
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/luisleao"
+      }
+    ]
   }
 }

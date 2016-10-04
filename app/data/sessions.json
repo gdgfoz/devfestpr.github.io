@@ -64,10 +64,10 @@
     "thumbnail": "",
     "videoId": "",
     "tags": [
-      "Android",
       "GAE",
       "Google Cloud",
-      "Google App Engine"
+      "Google App Engine",
+      "appengine"
     ]
   },
   "103": {
@@ -147,8 +147,8 @@
     "thumbnail": "",
     "videoId": "",
     "tags": [
-      "Android",
-      "Material Design"
+      "Material Design",
+      "Android"
     ]
   },
   "108": {
@@ -164,7 +164,7 @@
     "thumbnail": "",
     "videoId": "",
     "tags": [
-      "AngularJS"
+      "Angular"
     ]
   },
   "109": {
@@ -196,8 +196,8 @@
     "thumbnail": "",
     "videoId": "",
     "tags": [
-      "Firebase",
-      "Progressive Web Apps"
+      "Progressive Web Apps",
+      "Firebase"
     ]
   },
   "111": {
@@ -213,6 +213,46 @@
     "thumbnail": "",
     "videoId": "",
     "tags": [
+      "Android"
+    ]
+  },
+  "112": {
+    "id": 112,
+    "title": "Internet dos Trem e como não colocar fogo em casa",
+    "description": "Mineirices a parte, internet das coisas, além de ser a buzzword mais conhecida depois de Ajax, traz uma série de considerações, principalmente da comunidade maker. Será possível, através dela coletar dados, prever e até mesmo automatizar e montar a interação do homem com a máquina, criando novas interfaces e detetando automaticamente situações baseadas no comportamento humano irão moldar as próximas tecnologias. Por isso, vamos fazer uma abordagem prática de uma das tecnologias relacionadas a assistentes pessoais como o Amazon Echo (e especular sobre o futuro lançamento do Google Home), para criarmos um dispositivo que possa ser controlado por ele utilizando hacks que já existem. Ah, e como não colocar fogo em casa? Nesse tópico, abordaremos o que você pode fazer utilizando alguns devices que já existem e criando novos que integrem com equipamentos antigos e como deixá-los conectados através da web utilizando Firebase.",
+    "speakers": [
+      14
+    ],
+    "language": "Português",
+    "complexity": "Intermediario",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "Internet das Coisas",
+      "Amazon Echo",
+      "Google Home",
+      "Ambiente de Funcionamento",
+      "Hacking Echo",
+      "Firebase"
+
+    ]
+  },
+  "113": {
+    "id": 113,
+    "title": "Introdução ao Firebase",
+    "description": "",
+    "speakers": [
+      2
+    ],
+    "language": "Português",
+    "complexity": "Basico",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "Firebase"
+
     ]
   }
 }
