@@ -199,5 +199,20 @@
       "Firebase",
       "Progressive Web Apps"
     ]
+  },
+  "111": {
+    "id": 111,
+    "title": "Criando aplicativos de Sucesso em 2017",
+    "description": "",
+    "speakers": [
+      3
+    ],
+    "language": "Português",
+    "complexity": "Intermediario",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+    ]
   }
 }
