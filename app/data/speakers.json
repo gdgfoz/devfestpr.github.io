@@ -310,5 +310,25 @@
         "link": "https://github.com/luisleao"
       }
     ]
+  },
+  "15": {
+    "id": 15,
+    "featured": true,
+    "name": "Marcelo Quinta",
+    "title": "Professor",
+    "company": "UFG",
+    "country": "Brasil",
+    "photoUrl": "/images/people/quinta.jpg",
+    "bio": "Desenvolvedor móvel (principalmente Android e iOS), atua como professor em Engenharia de Software na UFG e também trabalha com UX. Google Developer Expert em Android, Intel Innovator e mentor do programa de startups do Google, já fez muitos aplicativos, que rodam o mundo inteiro. Na comunidade, é um dos organizadores do GDG Goiânia.",
+    "tags": [
+      "Android"
+    ],
+    "socials": [
+      {
+        "name": "Twitter",
+        "icon": "twitter",
+        "link": "twitter.com/mrquinta"
+      }
+    ]
   }
 }

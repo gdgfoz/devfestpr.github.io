@@ -254,5 +254,22 @@
       "Firebase"
 
     ]
+  },
+  "114": {
+    "id": 114,
+    "title": "Arquitetura móvel no Android e dicas de otimização",
+    "description": "Criar uma solução móvel não é simplesmente codificar usando as APIs do Android, iOS,etc. Existem dezenas de questões relacionadas ao contexto móvel que devem ser levadas em consideração, algumas mais complicadas que a web comum e outras mais simples. Isso tudo fica ainda mais complicado quando falamos da realidade brasileira. Entregar aplicativo sem crash já é obrigação. Vamos falar de fazer aplicativos performáticos?!",
+    "speakers": [
+      15
+    ],
+    "language": "Português",
+    "complexity": "Basico",
+    "presentation": "",
+    "thumbnail": "",
+    "videoId": "",
+    "tags": [
+      "Android"
+
+    ]
   }
 }
